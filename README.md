@@ -1,4 +1,4 @@
-# APP_Dfast
-Aplicativo Andoid com a finalidade de organizar a produção pra diminuir erros e melhorar a efitividade.
-
-Começando o app gerando o BD utilizando o Mysql Workbench.
+*controle de pedidos para distribuidor 
+*organização dos afazeres para melhor rendimento
+*controle de estoque
+*app android para que o funcionario tenha acesso rapido ao objetivos do dia.
